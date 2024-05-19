@@ -95,5 +95,11 @@
   <ItemGroup>
     <None Include="Resources\cursor.png" />
   </ItemGroup>
+  <ItemGroup>
+    <Content Include="Resources\blackColor.png" />
+    <Content Include="Resources\blueColor.png" />
+    <Content Include="Resources\greenColor.png" />
+    <Content Include="Resources\redColor.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
